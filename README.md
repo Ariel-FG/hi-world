@@ -1,3 +1,3 @@
 # hi world!
 
-primer repository :p
+primer repository :)
